@@ -104,7 +104,7 @@
  [],
  False,
  False,
- 1765920218,
+ 1765990825,
  [('runw.exe',
    'C:\\Users\\Biblioteca\\Desktop\\KLEBER\\DEV\\python\\avisos\\env\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
    'EXECUTABLE')],
